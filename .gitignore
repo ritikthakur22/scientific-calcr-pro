@@ -69,3 +69,17 @@ npm-debug.log*
 scratch/
 scratch_cas/
 scratch_cas/node_modules/
+
+# Public showcase cleanup
+.private_archive/
+archive/
+legacy_scratch/
+tools/
+test/
+.idea/
+.vscode/
+*.iml
+build/
+coverage/
+.dart_tool/
+android/local.properties
