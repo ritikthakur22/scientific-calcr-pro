@@ -15,5 +15,5 @@ draw.line((724, 300, 300, 724), fill=(200, 50, 150), width=30)
 draw.text((380, 800), "Scientific", fill=(255, 255, 255), font_size=80)
 draw.text((600, 800), "PRO", fill=(100, 150, 255), font_size=80)
 
-img.save('/home/crdy/testing/Scientific_CalcR_Pro/assets/icon.png')
+img.save('assets/icon.png', 'PNG')
 print("Icon created.")

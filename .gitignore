@@ -68,3 +68,4 @@ npm-debug.log*
 .LSOverride
 scratch/
 scratch_cas/
+scratch_cas/node_modules/

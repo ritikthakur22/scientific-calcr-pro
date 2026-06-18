@@ -1,6 +1,6 @@
 import os
 
-search_dir = '/home/crdy/testing/scientific_calcr_pro'
+search_dir = '.'
 pairs = [
     ('com.scientific_calcr.pro.scientific_calcr_pro', 'com.scientific_calcr.pro'),
     ('com.scientific_calcr.pro.scientific_calcrPro', 'com.scientific_calcr.pro')

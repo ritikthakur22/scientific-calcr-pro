@@ -1,6 +1,6 @@
 import os
 
-search_dir = '/home/crdy/testing/scientific_calcr_pro'
+search_dir = '.'
 search_str = 'com.scientific_calcr.pro'
 replace_str = 'com.scientific_calcr.pro'
 
