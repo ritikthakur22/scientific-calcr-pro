@@ -1,0 +1,70 @@
+# Flutter/Dart/Pub
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Android
+**/android/app/src/main/gen/
+**/android/build/
+**/android/app/build/
+**/android/.gradle
+/android/local.properties
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# iOS/macOS
+**/ios/Flutter/.last_build_id
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/app.flx
+**/ios/Flutter/app.zip
+**/ios/Flutter/flutter_assets/
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/ServiceDefinitions.json
+**/ios/Runner/GeneratedPluginRegistrant.*
+**/macos/Flutter/GeneratedPluginRegistrant.swift
+**/macos/Flutter/ephemeral/
+**/macos/Pods/
+
+# Linux
+**/linux/flutter/ephemeral/
+
+# Windows
+**/windows/flutter/ephemeral/
+
+# Web
+**/web/build/
+
+# IDE and Editor
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.metadata
+
+# Logs
+*.log
+flutter_*.log
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Temporary files
+*.swp
+*~
+.DS_Store
+.AppleDouble
+.LSOverride
+scratch/
+scratch_cas/
