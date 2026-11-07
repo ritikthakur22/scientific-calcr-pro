@@ -1,4 +1,4 @@
-# 🧮 Scientific CalcR Pro
+<p align="center"><img src="docs/banner.svg" width="100%" alt="Scientific CalcR Pro — graphing, equations, matrices and statistics in one app" /></p>
 
 <p align="center">
   <img src="https://github.com/ritikthakur22/scientific-calcr-pro/releases/download/v1.0.0/Screenshot_20260618-201303_Trebuchet.png" width="250" alt="Calculator Interface" />
