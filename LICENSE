@@ -1,21 +1,27 @@
-MIT License
+# Scientific CalcR Pro Software License & Terms of Use
 
-Copyright (c) 2026 crdy
+Copyright (c) 2026 Ritik Thakur. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 1. Ownership & Proprietary Rights
+Scientific CalcR Pro, including its source code, assets, mathematical interfaces, algorithms, and design system ("the Software"), is developed and owned exclusively by Ritik Thakur.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## 2. Strict Prohibition on Modification and Unauthorized Use
+Permission to use, copy, modify, adapt, reproduce, distribute, sublicense, sell, decompile, reverse-engineer, or create derivative works from this Software or its source code is strictly prohibited without explicit prior written authorization from Ritik Thakur.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+You may NOT:
+1. **Modify or Alter:** Modify, adapt, translate, or create derivative works based upon this Software or any part thereof.
+2. **Redistribute or Re-publish:** Distribute, sublicense, rent, lease, or host this Software or any modified version on any website, app store, or distribution channel.
+3. **Commercial Exploitation:** Sell, monetize, or use this application or its algorithms for commercial gain without a separate commercial license executed by the author.
+4. **Remove Attribution:** Remove, obscure, or alter any copyright notices, author attributions, or developer links.
+
+## 3. End-User Installation
+Users may download and install compiled releases of the Software from official channels solely for personal, non-commercial educational calculation and mathematical exploration purposes.
+
+## 4. Inquiries & Authorization
+For licensing inquiries, permissions, or questions regarding this software:
+- **Developer & Author:** Ritik Thakur
+- **Portfolio & Contact:** https://www.ritikthakur.com.np
+- **Official Repository:** https://github.com/ritikthakur22/scientific-calcr-pro
+
+## 5. Disclaimer of Warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE.
